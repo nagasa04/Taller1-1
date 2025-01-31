@@ -8,7 +8,7 @@
   
 Firmas:
 
-```
+``` c#
    // Firma de la función sin parámetros y sin valor de retorno
     void Saludar();
 
